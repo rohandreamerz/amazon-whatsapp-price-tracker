@@ -92,7 +92,7 @@ def sendWhatsAppMessage(df):
         os.mkdir("images")
     except:   
         pass
-    my_phone_number="+919892139710"
+    my_phone_number="+9198921XXXXX"
     from selenium import webdriver as wd
     wd=wd.Chrome()
     path=os.getcwd()
